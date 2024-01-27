@@ -4,7 +4,8 @@
 ## Data
 
 The data contains a series of signals stored as 
-|ascension (degrees) | declination (degrees) | time (seconds) | frequency (MHz) |
+
+| ascension (degrees) | declination (degrees) | time (seconds) | frequency (MHz) |
 
 These are radiofrequency signals captured by an array of instruments scanning a solid angle of the sky.
 
