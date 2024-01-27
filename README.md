@@ -22,4 +22,4 @@ My job is to find the source with the most signals (that is "blips", or entries 
 
 There are 34 blips at location 104.5, 82 degrees with a frequency of 2231.5 MHZ and a period of 2.135 seconds.
 
-**My code provides decent step by step process of getting to the result.**
+**NOTE: My code provides decent step by step process of getting to the result.**
