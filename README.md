@@ -3,6 +3,8 @@
 
 ## Data
 
+**NOTE: Data file is not available due to confidentiality!**
+
 The data contains a series of signals stored as 
 
 | ascension (degrees) | declination (degrees) | time (seconds) | frequency (MHz) |
